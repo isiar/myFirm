@@ -1,0 +1,73 @@
+E:\Andra\proiecte\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.exe
+E:\Andra\proiecte\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.deps.json
+E:\Andra\proiecte\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.runtimeconfig.json
+E:\Andra\proiecte\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.runtimeconfig.dev.json
+E:\Andra\proiecte\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.dll
+E:\Andra\proiecte\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.pdb
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csprojAssemblyReference.cache
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.Form1.resources
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormSales.resources
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csproj.GenerateResource.cache
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.AssemblyInfoInputs.cache
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.AssemblyInfo.cs
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csproj.CoreCompileInputs.cache
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.dll
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.pdb
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.genruntimeconfig.cache
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.Properties.Resources.resources
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormProducts.resources
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormNewProduct.resources
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormNewOrder.resources
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormClients.resources
+E:\Andra\proiecte\MyFirm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csproj.CopyComplete
+E:\Andra\proiecte\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormNewClient.resources
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.exe
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.deps.json
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.runtimeconfig.json
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.runtimeconfig.dev.json
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.dll
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.pdb
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csproj.AssemblyReference.cache
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.Form1.resources
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormClients.resources
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormNewClient.resources
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormNewOrder.resources
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormNewProduct.resources
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormProducts.resources
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormSales.resources
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.Properties.Resources.resources
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csproj.GenerateResource.cache
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.AssemblyInfoInputs.cache
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.AssemblyInfo.cs
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csproj.CoreCompileInputs.cache
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csproj.CopyComplete
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.dll
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.pdb
+D:\Anda Profil NU STERGEEEEE!!!\Desktop\Proiect Andra\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.genruntimeconfig.cache
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.exe
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.deps.json
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.runtimeconfig.json
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.runtimeconfig.dev.json
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.dll
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\MyFirm.pdb
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csprojAssemblyReference.cache
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.Form1.resources
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormClients.resources
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormNewClient.resources
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormNewOrder.resources
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormNewProduct.resources
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormProducts.resources
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.FormSales.resources
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.Properties.Resources.resources
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csproj.GenerateResource.cache
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.AssemblyInfoInputs.cache
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.AssemblyInfo.cs
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csproj.CoreCompileInputs.cache
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.csproj.CopyComplete
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.dll
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.pdb
+C:\Users\40760\Desktop\here\MyFirm2\MyFirm\obj\Debug\netcoreapp3.1\MyFirm.genruntimeconfig.cache
